@@ -32,6 +32,7 @@ while CALCULATOR == 1:
     if cont.lower() != "yes":
         CALCULATOR = 0
         print("Calculator is closing.")
+
     
 #NOT WHILE LOOP
 NUM=int(input("Enter a number: (press 0 if you want to exit)"))
@@ -40,5 +41,19 @@ while not NUM == 0:
     NUM=int(input("Enter a number: (press 0 if you want to exit)"))
 print("Exiting the program.")
         
+
+#TRY AND EXECPT,fianally
+#THIS IS EXAMPLE OF TRY AND EXCEPT
+try:
+    num = int(input("Enter a number: "))
+    num= 1/num
+    print("The result of 1 divided by", num, "is:", num)
+except ValueError:
+    print("Invalid input. Please enter a valid integer.")
+except ZeroDivisionError:
+    print("Error: Division by zero is not allowed.")
+finally:
+    print("The program has finished running.")
+    
 
     
