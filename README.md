@@ -42,7 +42,7 @@ To become a proficient Python developer by building real projects every week —
 - [x] Control flow — if/elif/else, FizzBuzz
 - [x] Loops — for, while, break, continue
 - [x] Functions — args, kwargs, lambda, scope
-- [x] Lists, Tuples, List Comprehensions
+- [ ] Lists, Tuples, List Comprehensions
 
 ### 🔄 In Progress
 - [ ] Dictionaries & Sets
