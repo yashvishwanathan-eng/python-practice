@@ -108,6 +108,3 @@ This is my personal Python learning journal. Files may be experimental — that'
 **Target:** April 22, 2026  
 **LinkedIn Updates:** Weekly posts on progress
 
----
-
-*"The habit of showing up every day matters more than any single day's output." — roadmap.sh*
